@@ -1,3 +1,5 @@
+/* https://www.codingame.com/training/easy/ascii-art */
+
 import java.util.*;
 import java.util.function.Function;
 import java.util.stream.Stream;
